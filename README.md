@@ -15,6 +15,18 @@ Node JS
 - Web3.js/Ethers
 - Truffle/Hardhat
 
+***
+
+### when I code
+```diff
+- less comment
++ more readability
+```
+
+![Main](https://64.media.tumblr.com/tumblr_mbe1y9WerA1riqzepo1_400.gifv)
+![Main](https://c.tenor.com/s1LAPOXya-wAAAAd/internet-bravo.gif)
+
+
 |Type|Nom|Age|
 |----|---|---|
 |Oui|Julien|22|
