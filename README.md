@@ -17,11 +17,19 @@ Node JS
 
 ***
 
-### when I code
+### when I code ☀️
 ```diff
 - less comment
 + more readability
 ```
+![Main](https://img.shields.io/badge/-HTML-ead41c?logo=javascript&logoColor=black&logoWidth=30)
+![Main](https://img.shields.io/badge/-HTML-CSS?logo=javascript&logoColor=black&logoWidth=30)
+![Main](https://img.shields.io/badge/-TypeScript-ead41c?logo=javascript&logoColor=black&logoWidth=30)
+![Main](https://img.shields.io/badge/-JavaScript-ead41c?logo=javascript&logoColor=black&logoWidth=30)
+![Main](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elib27&layout=compact)](https://github.com/elib27/github-readme-stats)
 
 ![Main](https://64.media.tumblr.com/tumblr_mbe1y9WerA1riqzepo1_400.gifv)
 Bravo vous êtes sur mon profil, vous allez voir c'est très facile.
