@@ -14,6 +14,7 @@
 - React
 - NextJS
 - Gatsby
+- Astro
 - Node JS
 
 🧪 **WEB3**
