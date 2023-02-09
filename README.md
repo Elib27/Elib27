@@ -1,5 +1,5 @@
 # ABOUT ME
-**Front end and web3 enthusiast** 🤩
+**Front-End -> Full stack**
 
 *Bravo vous êtes sur mon profil, vous allez voir c'est très facile.*
 <!-- ![Welcome your are on internet](https://c.tenor.com/s1LAPOXya-wAAAAd/internet-bravo.gif) -->
@@ -13,6 +13,8 @@
 - TypeScript
 - React
 - NextJS
+- Redux, Zustand, Recoil
+- NextAuth
 - Gatsby
 - Astro
 - Node JS
