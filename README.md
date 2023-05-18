@@ -1,5 +1,4 @@
 # ABOUT ME
-**Front-End -> Full stack**
 
 *Bravo vous êtes sur mon profil, vous allez voir c'est très facile.*
 <!-- ![Welcome your are on internet](https://c.tenor.com/s1LAPOXya-wAAAAd/internet-bravo.gif) -->
@@ -15,14 +14,9 @@
 - NextJS
 - Redux, Zustand, Recoil
 - NextAuth
-- Gatsby
 - Astro
-- Node JS
-
-🧪 **WEB3**
-- Solidity
-- Web3.js/Ethers
-- Truffle/Hardhat
+- SolidJS
+- NodeJS
 
 ***
 
