@@ -13,9 +13,10 @@
 - HTML, CSS
 - SASS, Tailwind
 - Redux, Zustand
+- TanStack Query
 - NextAuth
 - Astro
-- SolidJS
+- Solid.js
 - Three.js
 - Node.js
 
