@@ -36,10 +36,10 @@ I'm a student at Grenoble INP - Esisar and a Front-End developer from <img src="
 
 ## Find me on
 <p>
-  <a href="https://github.com/thmsgbrt" target="_blank">
+  <a href="https://github.com/Elib27" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-12100E.svg?&style=for-the-badge&logo=Github&logoColor=ffffff" />
   </a>
-  <a href="https://www.linkedin.com/in/thomas-guibert](https://www.linkedin.com/in/eliot-bas/" target="_blank">
+  <a href="https://www.linkedin.com/in/eliot-bas/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
   <a href="https://eliotbas.com/en/" target="_blank">
