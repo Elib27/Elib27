@@ -34,7 +34,5 @@ I'm a student at Grenoble INP - Esisar and a Front-End developer from <img src="
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elib27&layout=compact)](https://github.com/elib27/github-readme-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2o6fn22mwfai3rzfyxhtdhrz7&unique=true)
-
 ## Find me on
 <p><a href="https://github.com/Elib27" target="_blank" style="width: fit-content;"><img alt="Github" src="https://img.shields.io/badge/GitHub-12100E.svg?&style=for-the-badge&logo=Github&logoColor=ffffff" /></a> <a href="https://www.linkedin.com/in/eliot-bas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a> <a href="https://eliotbas.com/en/" target="_blank"><img alt="My website" src="https://img.shields.io/badge/My%20website-585EFB.svg?&style=for-the-badge&logo=website&logoColor=ffffff" /></a></p>
