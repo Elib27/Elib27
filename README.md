@@ -18,6 +18,8 @@ I'm a student at Grenoble INP - Esisar and a Fullstack developer from <img src="
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=ffffff" />
   <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=ffffff" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=ffffff" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" />
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js&logoColor=ffffff" />
   <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=GreenSock&logoColor=ffffff" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff" />
