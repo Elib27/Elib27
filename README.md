@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" /> Hey, I'm Eliot!
 Welcome to my page!
 
-I'm a student at Grenoble INP - Esisar and a Front-End developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **Grenoble, France.**
+I'm a student at Grenoble INP - Esisar and a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **Grenoble, France.**
 
 ## 🔧 Technologies I use
 <p>
