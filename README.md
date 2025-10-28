@@ -1,7 +1,9 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" /> Hey, I'm Eliot!
 Welcome to my page!
 
-I'm a student at Grenoble INP - Esisar and a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **Grenoble, France.**
+I'm a student at Grenoble INP - Esisar and a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **Grenoble, France** and currently based in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> **Montréal, Canada**!
+
+I’m looking for an internship in software engineering, DevOps, or machine learning in Montréal.
 
 ## 🔧 Technologies I use
 <p>
